@@ -1,0 +1,5 @@
+mouse_app
+mouse_app.exe
+include
+lib*
+.raylib_build
