@@ -9,17 +9,13 @@ Este proyecto dibuja un mouse estilo pixel art usando Raylib.
 - `include/` - Cabeceras de Raylib.
 - `lib/` - Biblioteca estática de Raylib para Linux.
 - `lib_mingw-w64/` - Biblioteca Raylib para compilación Windows.
+- `test.gif` - GIF de demostración optimizado del proyecto.
 
-## Video de demostración
+## Demo en GIF
 
-El siguiente video muestra el proyecto en ejecución:
+El siguiente GIF muestra el proyecto en ejecución:
 
-<video controls width="640">
-  <source src="assets/test_optimized.mp4" type="video/mp4">
-  Tu navegador no soporta video HTML5.
-</video>
-
-Para ver las dimensiones correctas del video, usa:
+<img src="assets/test.gif" width="640" alt="Demostración del proyecto">
 
 ## Cómo compilar
 
